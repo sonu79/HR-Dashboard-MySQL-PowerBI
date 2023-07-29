@@ -40,4 +40,4 @@ The average tenure in each department is around 8 years, with Legal and Auditing
 
 Limitations:--
 During data querying, records with negative ages were excluded (967 records). Only employees aged 18 years and above were considered.
-Some termination dates were unrealistically far into the future and were not included in the 
+Some termination dates were unrealistically far into the future and were not included in the analysis (1599 records). Only termination dates up to the current date were considered.
