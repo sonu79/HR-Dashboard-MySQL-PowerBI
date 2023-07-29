@@ -7,6 +7,8 @@ Data Cleaning & Analysis - MySQL Workbench was used for data cleaning and analys
 
 Data Visualization - Power BI was employed for creating visualizations.
 
+
+
 Key Questions
 What is the gender distribution among employees in the company?
 How do employees in the company breakdown by race/ethnicity?
@@ -19,6 +21,9 @@ Which department experiences the highest turnover rate?
 What is the distribution of employees across locations by state?
 How has the company's employee count changed over time based on hire and termination dates?
 What is the tenure distribution for each department?
+
+
+
 Summary of Findings
 The company has a higher proportion of male employees.
 The largest racial/ethnic group among employees is White, while Native Hawaiian and American Indian groups are the smallest.
@@ -30,6 +35,9 @@ The Marketing department experiences the highest turnover rate, followed by Trai
 A significant number of employees are from the state of Ohio.
 Over the years, the company's employee count has been increasing.
 The average tenure in each department is around 8 years, with Legal and Auditing departments having the highest average tenure, while Services, Sales, and Marketing have the lowest.
+
+
+
 Limitations
 During data querying, records with negative ages were excluded (967 records). Only employees aged 18 years and above were considered.
 Some termination dates were unrealistically far into the future and were not included in the 
