@@ -9,7 +9,7 @@ Data Visualization - Power BI was employed for creating visualizations.
 
 
 
-Key Questions
+Key Questions:--
 What is the gender distribution among employees in the company?
 How do employees in the company breakdown by race/ethnicity?
 What is the age distribution of employees in the company?
@@ -24,7 +24,7 @@ What is the tenure distribution for each department?
 
 
 
-Summary of Findings
+Summary of Findings:--
 The company has a higher proportion of male employees.
 The largest racial/ethnic group among employees is White, while Native Hawaiian and American Indian groups are the smallest.
 Employees' ages range from 20 to 57 years old. The majority falls in the age groups of 25-34 and 35-44, while the smallest group is in the 55-64 age range.
@@ -38,6 +38,6 @@ The average tenure in each department is around 8 years, with Legal and Auditing
 
 
 
-Limitations
+Limitations:--
 During data querying, records with negative ages were excluded (967 records). Only employees aged 18 years and above were considered.
 Some termination dates were unrealistically far into the future and were not included in the 
